@@ -35,7 +35,6 @@ fn main() {
                 motor_wait();
                 motor_turn_right();
             }
-            serial_send('_')
         }
     }
 }
